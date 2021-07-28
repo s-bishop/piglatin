@@ -1,0 +1,16 @@
+{
+  "name": "piglatin",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {},
+  "description": ""
+}
